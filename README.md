@@ -14,13 +14,13 @@ Welcome to my GitHub profile! I'm a 3rd-year Computer Science and Engineering (C
 
 🛠️ Technologies and Tools
 
-Programming Languages:
+Programming Languages:-
 
 C Programming
 
 Python
 
-Web Development:
+Web Development:-
 
 HTML
 
@@ -30,13 +30,13 @@ JAVASCRIPT
 
 
 
-Tools:
+Tools:-
 
 Github
 
 Git
 
-🌟 Let's Connect
+🌟 Let's Connect:-
 
 💼 LinkedIn: [https://www.linkedin.com/in/pranav-vaidya-230b4429a/]
 
